@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\teo.erfassjosefsson\\programering 1 med mikael\\store\\Store\\Store.csproj": {}
+    "c:\\Users\\teo.erfassjosefsson\\programering 1 med mikael\\store\\Store\\Store.csproj": {}
   },
   "projects": {
-    "C:\\Users\\teo.erfassjosefsson\\programering 1 med mikael\\store\\Store\\Store.csproj": {
+    "c:\\Users\\teo.erfassjosefsson\\programering 1 med mikael\\store\\Store\\Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\teo.erfassjosefsson\\programering 1 med mikael\\store\\Store\\Store.csproj",
+        "projectUniqueName": "c:\\Users\\teo.erfassjosefsson\\programering 1 med mikael\\store\\Store\\Store.csproj",
         "projectName": "Store",
-        "projectPath": "C:\\Users\\teo.erfassjosefsson\\programering 1 med mikael\\store\\Store\\Store.csproj",
+        "projectPath": "c:\\Users\\teo.erfassjosefsson\\programering 1 med mikael\\store\\Store\\Store.csproj",
         "packagesPath": "C:\\Users\\teo.erfassjosefsson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\teo.erfassjosefsson\\programering 1 med mikael\\store\\Store\\obj\\",
+        "outputPath": "c:\\Users\\teo.erfassjosefsson\\programering 1 med mikael\\store\\Store\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
